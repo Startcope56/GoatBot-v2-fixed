@@ -1,5 +1,5 @@
 {
-  "author": "April Manalo", /// Don't modify this to avoid voided bots systems thank you🥰 remove this after you read
+  "author": "April Manalo",
   "facebookAccount": {
     "i_user": "",
     "proxy": null,
@@ -9,13 +9,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "GoatBot",
-  "prefix": "-",
+  "nickNameBot": "Yasis Bot",
+  "prefix": "*",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["uid_here"],
+  "adminBot": ["61570418874194"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
